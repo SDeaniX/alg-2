@@ -1,0 +1,17 @@
+
+.menu_button {
+    margin:  5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    box-shadow: 3px 3px 7px #000000;
+}
+
+.link {
+    display: block;
+    text-decoration: none;
+    margin:  10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
